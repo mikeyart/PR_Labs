@@ -1,0 +1,7 @@
+A:\FAF\Anul III\Semestrul II\PR\Threads\Threads\bin\Debug\Threads.exe.config
+A:\FAF\Anul III\Semestrul II\PR\Threads\Threads\bin\Debug\Threads.exe
+A:\FAF\Anul III\Semestrul II\PR\Threads\Threads\bin\Debug\Threads.pdb
+A:\FAF\Anul III\Semestrul II\PR\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+A:\FAF\Anul III\Semestrul II\PR\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+A:\FAF\Anul III\Semestrul II\PR\Threads\Threads\obj\Debug\Threads.exe
+A:\FAF\Anul III\Semestrul II\PR\Threads\Threads\obj\Debug\Threads.pdb
