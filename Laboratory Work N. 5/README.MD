@@ -19,7 +19,7 @@ an action, we form the message in this form "Connect|Client1", "SendMessage|Admi
 Let's talk about the process when admin sends a message, we make a for loop to iterate through all sockets and send the message to each endpoint.  
 ![alt text](screens/1.PNG "Logo Title Text 1")   
 ![alt text](screens/2.PNG "Logo Title Text 1")   
-![alt text](screens/3.png "Logo Title Text 1")    
+![alt text](screens/3.PNG "Logo Title Text 1")    
 
 Bibliography:  
 https://www.codeproject.com/Articles/16935/A-Chat-Application-Using-Asynchronous-UDP-sockets
