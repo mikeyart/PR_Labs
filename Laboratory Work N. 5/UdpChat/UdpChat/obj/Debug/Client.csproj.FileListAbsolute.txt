@@ -1,0 +1,11 @@
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\bin\Debug\UdpChat.exe.config
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\bin\Debug\UdpChat.exe
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\bin\Debug\UdpChat.pdb
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\UdpChat.Client.resources
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\UdpChat.LoginForm.resources
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\UdpChat.Properties.Resources.resources
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\UdpChat.exe
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\UdpChat\UdpChat\obj\Debug\UdpChat.pdb

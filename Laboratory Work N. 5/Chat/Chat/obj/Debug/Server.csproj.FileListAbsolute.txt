@@ -1,0 +1,11 @@
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Chat.Main.resources
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Client.PrivateChat.resources
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Ciclicci\Desktop\PR_Labs-1-master\lab5\Chat\Chat\obj\Debug\Chat.pdb
